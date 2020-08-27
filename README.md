@@ -1,2 +1,2 @@
 # git-demo
-some content 2
+some content
