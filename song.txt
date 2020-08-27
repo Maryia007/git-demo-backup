@@ -3,11 +3,14 @@ wall of shields
 standing strong
 on this their chosen battle field
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 Form the lines
 Shield by shield
 Side by side
 We're marching into destiny
 ------------------------------------------------
+=======
+>>>>>>> parent of e6881b7... add two more lines to my song
 =======
 >>>>>>> parent of e6881b7... add two more lines to my song
